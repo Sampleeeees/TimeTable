@@ -15,6 +15,8 @@ def timetable(year1, month1, day1, year2, month2, day2, date_work, date_skip):
 
 
     print(dates)
+    print()
+    print()
 
 
 
